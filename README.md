@@ -46,7 +46,7 @@ https://github.com/sumnicky99/Bot-Battlr-code-challenge.git
 
 ```
 # Live Link
-
+ https://sumnicky99.github.io/Bot-Battlr-code-challenge
 
 
 ## Technologies used
